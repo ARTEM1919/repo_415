@@ -1,3 +1,14 @@
 qwertyui 
 hkhlljk
 fhnb
+The Python Software Foundation (PSF) is the charitable organization behind Python,
+ dedicated to advancing, supporting, and protecting the Python programming language 
+ and the community that sustains it. That mission and cause are more than just words
+  we believe in. Our tiny but mighty team 
+  works hard to deliver the projects and
+   services that allow Python to be the thrivi
+   g, independent, community-driven language it i
+   s today. Some of
+    what the PSF does inc
+    ludes producing PyCon US,
+     hosting the
