@@ -12,3 +12,5 @@ The Python Software Foundation (PSF) is the charitable organization behind Pytho
     what the PSF does inc
     ludes producing PyCon US,
      hosting the
+
+     С помощью mkdir (make directory — создать директорию) можно создать новую директорию. Так, команда mkdir directory создаст новую директорию с именем directory в текущей рабочей директории.
